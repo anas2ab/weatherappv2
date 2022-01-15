@@ -1,0 +1,12 @@
+.hourly-forecast-container {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.hourly-forecast-container::-webkit-scrollbar {
+    display: none;
+}

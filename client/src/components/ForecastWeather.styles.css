@@ -1,0 +1,13 @@
+.three-day-forecast-container {
+    display: flex;
+    width: 32%;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    margin-top: 5px;
+    justify-content: center;
+    text-align: center;
+}
+
+.high-low {
+    display: flex;
+}
